@@ -1,0 +1,13 @@
+
+body{
+    color: yellow;
+    background-color: peru;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+}
+
+.avatar{
+    width: 150px;
+    border-radius: 100px;
+    border: 4px solid yellow;
+}
